@@ -1,5 +1,6 @@
 ⚽ Football Players Analysis — Season 2024/25
 🇧🇷 Português
+
 📌 Sobre o projeto
 Este projeto realiza uma análise exploratória de dados de jogadores de futebol referentes à temporada 2024/25, utilizando Python, Pandas, Matplotlib e Seaborn.
 O notebook utiliza dados de jogadores das cinco principais ligas europeias e analisa diferentes estatísticas individuais para identificar destaques ofensivos, defensivos e por posição.
